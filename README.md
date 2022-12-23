@@ -1,1 +1,1 @@
-# frontendmento-qr-code
+# frontendmentor-qr-code
